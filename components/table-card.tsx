@@ -7,7 +7,7 @@ interface TableCardProps {
   borderColor?: string;
 }
 
-export default function ({
+export default function TableCard({
   color,
   title,
   char,
