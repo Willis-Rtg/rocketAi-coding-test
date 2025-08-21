@@ -1,5 +1,4 @@
 import Table from "@/components/table";
-import TableCard from "@/components/table-card";
 import Image from "next/image";
 
 export default function Home() {
